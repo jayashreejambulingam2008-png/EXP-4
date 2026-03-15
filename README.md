@@ -36,17 +36,30 @@ PROCEDURE:
 
 CIRCUIT DIAGRAMS
 
-Half wave rectifier with filter:
+Half wave rectifier
 
-Bridge rectifier with filter:
+![CIRCUIT DIAGRAM](BEEE_EXP4_PIC1.jpeg)
+
+Full wave (Bridge) rectifier
+
+![CIRCUIT DIAGRAM](BEEE_EXP4_PIC2.jpeg)
+
 
 TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
+
+Half wave rectifier
+
+![CIRCUIT DIAGRAM](BEEE_EXP4_DIA1.jpeg)
+
+Full wave (Bridge) rectifier
+
+![CIRCUIT DIAGRAM](BEEE_EXP4_DIA2.jpeg)
 
 WAVEFORM:
 
+![WAVEFORM](BEEE_EXP4_OUT2.jpeg)
+
+![WAVEFORM](BEEE_EXP4_OUT1.jpeg)
 
 RESULT:
 
